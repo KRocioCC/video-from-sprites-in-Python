@@ -18,7 +18,7 @@ Este proyecto genera una animación visual a partir de una secuencia de sprites 
 
 Antes de ejecutar el proyecto, asegúrate de tener instalado:
 
-pip install pygame
+#### pip install pygame en el entorno virtual
 
 
 <img width="651" alt="Captura de Pantalla 2025-07-07 a la(s) 16 28 50" src="https://github.com/user-attachments/assets/cece3faf-8d12-408e-b259-448ad5856132" />
